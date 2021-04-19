@@ -1,4 +1,4 @@
-# @ecpark/im-cli
+# demo-cli
 
 A rapid development project tool based on Vue cli.
 
