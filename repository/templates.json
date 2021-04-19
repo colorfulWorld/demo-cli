@@ -1,0 +1,6 @@
+{
+  "template1": {
+    "branch": "master",
+    "url": "http://git.ym/g-web/im-cli-template.git"
+  }
+}
